@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @joao-vitorg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# João Vitor Gomes de Souza
 
-<!---
-joao-vitorg/joao-vitorg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cursando Sistemas para internet no IFTM.
+
+## Formação
+
+-   **Técnico em Redes de Computadores** - [Julho 2020 até Dezembro 2021]
+-   **Graduação em Sistemas para Internet** - [Março 2022 até Dezembro 2024]
+
+## Cursando
+
+-   **CS50x** - Introdução a Ciência da Computação
+-   **CS50w** - Programação Web com Python e JavaScript
+-   **CS50ai** - Introdução a Inteligencia Artificial com Python
