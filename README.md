@@ -1,4 +1,4 @@
-# João Vitor Gomes de Souza
+# João Vitor
 
 Comecei a minha jornada no mundo da computação em 2018 com 14 anos, mexendo com Linux (Ubuntu e CentOS) e Python.
 
